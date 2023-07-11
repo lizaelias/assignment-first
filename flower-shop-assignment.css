@@ -119,6 +119,7 @@ display: flex;
 .box-container{
     text-align: center;
     align-items: center;
+    
 }
 
 .flower-box-container{
@@ -132,6 +133,11 @@ display: flex;
 .flower-box-images1{
 padding:110px 78px 0px 78px;
 }
+.flower-box-images3{
+  padding: 68px 78px 0px 78px;;
+}
+
+
 
 .box-fotter-title{
 color: #272727;
@@ -262,7 +268,7 @@ margin-top: 50px;
     
     height: 449px;
     
-
+    background-image: url('asset/Rectangle9.png');
     background-position:center;
     margin-top: 130px;
     background-repeat: no-repeat;
