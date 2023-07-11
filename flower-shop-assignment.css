@@ -273,20 +273,7 @@ margin-top: 50px;
     height: 449px;
 }
 
-.deals-heading {
-    text-align: center;
-    padding-top: 30px;
-    
-}
 
-.deals-title{
-    
-    color: #272727;
-    font-size: 40px;
-    font-weight: 800;
-    padding-top: 30px;
-    text-align: center;
-}
 
 .deals-text-description {
     color: rgba(39, 39, 39, 0.60);
@@ -306,6 +293,20 @@ margin-top: 50px;
     font-size: 20px;
     border: none;
 
+}
+.deals-heading {
+    text-align: center;
+    padding-top: 30px;
+    
+}
+
+.deals-title{
+    
+    color: #272727;
+    font-size: 40px;
+    font-weight: 800;
+    padding-top: 30px;
+    text-align: center;
 }
 
 /* footer seciton styls */
