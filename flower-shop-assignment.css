@@ -263,52 +263,49 @@ margin-top: 50px;
 
 }
 
-/* Get The Latest Deals */
-.small-banner-container{
-    
+
+/*  email and styls */
+
+.email {
+    background-image: url("asset/Rectangle9.png");
+    margin: 128px auto;
+    width: 1440px;
     height: 449px;
-    
-    background-image: url('asset/Rectangle9.png');
-    background-position:center;
-    margin-top: 130px;
-    background-repeat: no-repeat;
-    background-size: 90%;
 }
 
-.small-banner-container-title{
+.deals-heading {
+    text-align: center;
+    padding-top: 30px;
     
- color: #272727;
-text-align: center;
-font-size: 40px;
-font-weight: 800;
-padding-top:150px;
-align-items: center;
-
 }
 
-.small-banner-container-discription{
+.deals-title{
+    
+    color: #272727;
+    font-size: 40px;
+    font-weight: 800;
+    padding-top: 30px;
+    text-align: center;
+}
+
+.deals-text-description {
     color: rgba(39, 39, 39, 0.60);
     text-align: center;
     font-size: 18px;
     font-weight: 400;
-    line-height: 30px;
+    padding-top: 10px;
 }
-.email{
+
+.gmail {
     width: 700px;
     height: 64px;
+    border-radius: 8px;
     background: #FFF;
-    font-weight: 400;
-    font-size: 16px;
-    color: rgba(39, 39, 39, 0.60);
-    padding-left: 10px;
-    border: 0px;
-    border-radius: 5px;
-    
-    
+    margin-right: 16px;
+    margin-top: 25px;
+    font-size: 20px;
+    border: none;
 
-}
-.a{
-padding-left:400px;
 }
 
 /* footer seciton styls */
